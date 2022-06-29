@@ -1,18 +1,17 @@
-#Hi Folks
+#Desafio DIO
 
-**Olá. Tudo bem?**
-_Servindo de teste_
+**Desafio Git/Github**
+_Lista Não Ordernada_
 
  -  Lista Não Ordenada
- -  Andrey
- -  Valdeci
- -  Mendonça
- -  Da
- -  Silva
- -  Cunha
+ -  Lista Não Ordenada
+ -  Lista Não Ordenada
+ -  Lista Não Ordenada
 
-### Lista 2
- -  Luiz
- -  Lucas
- -  José
-##Finalizando teste
+_Lista Ordenada_
+
+ 1. Luiz
+ 2. Lucas
+ 3. José
+
+##Finalizando Desafio
