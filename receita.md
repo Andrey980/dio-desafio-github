@@ -10,8 +10,8 @@ _Lista Não Ordernada_
 
 _Lista Ordenada_
 
- 1. Luiz
- 2. Lucas
- 3. José
-
+ 1. Lista Ordenada
+ 2. Lista Ordenada
+ 3. Lista Ordenada
+ 
 ##Finalizando Desafio
